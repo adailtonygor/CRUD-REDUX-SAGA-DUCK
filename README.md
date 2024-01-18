@@ -1,4 +1,4 @@
-# Projeto de CRUD 
+# Projeto crud: 
 
 O usuario podera adicionar , editar , salvar e remover itens na lista. 
 ## Tecnologias
