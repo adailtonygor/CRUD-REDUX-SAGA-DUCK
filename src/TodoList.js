@@ -40,8 +40,8 @@ const TodoList = ({ todos, addTodo, editTodo, removeTodo }) => {
           size="small"
           className="form-input"
         />
-        <button type="submit" className="form-button">
-          Adicionar
+        <button type="submit"  className="form-button">
+          Adicionar 
         </button>
       </form>
 
